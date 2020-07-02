@@ -1,4 +1,4 @@
-# news-app
+# sivan-daily
 
 ## Project setup
 ```
